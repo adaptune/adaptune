@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @adaptune
+- 
 - 👀 I’m interested in ...
+-    steganography (see link below)
+-    music, tuned in just intonation (other link below)
+ 
+- 
 - 🌱 I’m currently learning ...
+-     how to work with Git and github
+- 
 - 💞️ I’m looking to collaborate on ...
-
+-     or connect with, people of similar interest.
 - 
 - 📫 How to reach me ...
 -    http://www.adaptune.com/steg.htm
